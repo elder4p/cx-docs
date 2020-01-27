@@ -11,7 +11,7 @@ please let use know by [raising an issue](https://github.com/ZeligsoftDev/CX4CBD
 
 ## 1. Download the Eclipse Installer.
 
-Visit https://www.eclipse.org/downloads/, and click the link to download the Eclipse Installer.
+Visit [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/), and click the link to download the Eclipse Installer.
 
 ##  2. Start the Eclipse Installer
 
